@@ -101,10 +101,10 @@ LearnSmart-India/
 
 This project addresses real-world problems:
 
-* 📉 Low digital literacy in rural and semi-urban areas
-* 💸 Rising cases of UPI fraud and scams
-* 🌐 Language barriers in online education
-* 🧠 Lack of awareness about privacy and cybersecurity
+* Low digital literacy in rural and semi-urban areas
+* Rising cases of UPI fraud and scams
+* Language barriers in online education
+* Lack of awareness about privacy and cybersecurity
 
 By providing **simple, bilingual, and practical content**, LearnSmart India helps users:
 
