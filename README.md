@@ -141,7 +141,7 @@ git clone https://github.com/your-username/learnsmart-india.git
 
 ## 🤝 Contribution
 
-Ranjana Parab — Project Developer
+Ranjana Parab — Project Developer |
 Adarsh Dubey — Contributor
 
 ---
